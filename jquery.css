@@ -1,0 +1,60 @@
+body{
+    background: #F2E4E4;
+
+}
+h1 {
+
+    color: #333366;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 5px;
+    border-bottom: solid #FFFFFF;
+    width: 32.5%;
+}
+
+h4
+{
+
+    color: #9C9A9A;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+    padding-bottom: 7%;
+   
+}
+
+div {
+    text-align: center;
+    padding-bottom: 2%;
+
+}
+
+#buttondiv {
+    text-align: center;
+    
+}
+
+img {
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    margin: 0 auto;
+
+}
+
+button {
+    background: #B4767E;
+    color: #333366;
+   
+}
+
+.link { color:#333366; }
+
+.btn-sml {
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 15px;
+}
+
+#header {
+    font-family: 'Caveat', cursive;
+
+}
