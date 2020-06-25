@@ -1,0 +1,279 @@
+h1 {
+    text-align: center;
+
+    margin: 0 auto;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+#img4 {
+
+    padding-top: 5%;
+    padding-left: 43%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+#img5 {
+
+    padding-top: 2%;
+    padding-left: 15%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+
+
+
+#img1 {
+
+    padding-top: 5%;
+
+
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+
+#img2 {
+
+    padding-top: 5%;
+    padding-left: 3.5%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+#img3 {
+
+    padding-top: 5%;
+    padding-left: 8.5%;
+    width: 175px;
+    width: 175px;
+
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+#img6 {
+
+    padding-top: 4%;
+    padding-left: 14%;
+    
+    animation:  animate 1.5s linear;
+
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+#img7 {
+
+    padding-top: 5%;
+    padding-left: 43%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+#img8 {
+
+    padding-top: 5%;
+    padding-left: 15%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+#img1111 {
+    padding-left: 5%;
+    width: 55px;
+    height: 45px;
+
+}
+
+
+#img5555 {
+
+    width: 57px;
+    height:45px;
+    padding-top: 2%;
+    padding-left: 44.5%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+
+#img4444 {
+
+    width: 60px;
+    height:45px;
+    padding-top: 2%;
+    padding-left: 15%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+
+#img3333 {
+
+    width: 70px;
+    height:50px;
+    padding-top: 5%;
+    padding-left: 44.5%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+
+#img2222 {
+
+    width: 70px;
+    height:45px;
+    padding-top: 5%;
+    padding-left: 15%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+
+#s1 {
+    padding-left: 45%;
+
+}
+#s2 {
+    padding-left: 18%;
+
+}
+}
+#s3 {
+    padding-left: 10%;
+
+}
+
+#s5 {
+    padding-left: 21.5%;
+
+}
+
+#s6 {
+    padding-left: 38%;
+
+}
+
+#s4 {
+    padding-left: 15%;
+}
+
+#s7 {
+    padding-left: 44.5%;
+
+}
+
+
+#s8 {
+    padding-left: 16.5%;
+}
+
+#img11111{
+    width: 55px;
+    height:45px;
+    padding-top: 2%;
+    padding-left: 15%;
+    animation:  animate 1.5s linear;
+} 
+@keyframes animate
+{
+    0%
+    {
+        opacity: 0;
+
+    }
+}
+
+}
+
