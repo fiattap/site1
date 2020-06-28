@@ -64,6 +64,15 @@ button {
         width: 350px;
         height: 350px;
     }
+    h1 {
+        font-size: 20px;
+        border-bottom: 3px solid #FFFFFF;
+        width: 65.5%;
+    }
+    h4 {
+        font-size: 14px;
+
+    }
 }
 
 
