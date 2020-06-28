@@ -93,3 +93,36 @@ p{
 .container {
     background: #E5DDE2;
 }
+
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px){
+    h1 {
+        font-size: 17px;
+    }
+    .company {
+        font-size: 15px;
+    }
+    .maindiv {
+        font-size: 17px;
+    }
+    .maintop {
+        font-size: 15px;
+    }
+    .location {
+        font-size: 10px;
+    }
+    .title {
+        font-size: 10px;
+    }
+    .date {
+        font-size: 10px;
+    }
+    .description {
+        font-size: 10px;
+    }
+    li {
+        font-size: 10px;
+    }
+
+
+}
