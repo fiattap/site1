@@ -97,31 +97,31 @@ p{
 /* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px){
     h1 {
-        font-size: 17px;
+        font-size: 15px;
     }
     .company {
-        font-size: 15px;
+        font-size: 10px;
     }
     .maindiv {
-        font-size: 17px;
+        font-size: 13px;
     }
     .maintop {
-        font-size: 15px;
+        font-size: 13px;
     }
     .location {
-        font-size: 10px;
+        font-size: 8px;
     }
     .title {
-        font-size: 10px;
+        font-size: 8px;
     }
     .date {
-        font-size: 10px;
+        font-size: 8px;
     }
     .description {
-        font-size: 10px;
+        font-size: 8px;
     }
     li {
-        font-size: 10px;
+        font-size: 8px;
     }
 
 
